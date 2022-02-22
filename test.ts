@@ -1,7 +1,7 @@
 import test from "ava";
 import { ListaDeProductos } from "./index";
 import * as products from "./products.json";
-import * as orderBy from "lodash/orderBy";
+import * as orderBy from "/home/nelsolinux/Documents/curso_apx/modulo_2/cap_9_herencia_lodash/practica/extendiendo-clases/node_modules/lodash/orderBy.js";
 
 test("Test de prueba", (t) => {
   t.is("hola", "hola");

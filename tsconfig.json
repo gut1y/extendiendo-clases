@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "target": "esnext",
+    "target": "ESNext",
     "moduleResolution": "node",
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "baseUrl": "/home/nelsolinux/Documents/curso_apx/modulo_2/cap_9_herencia_lodash/practica/extendiendo-clases/node_modules/lodash/"
   }
 }
